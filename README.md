@@ -15,6 +15,8 @@
   [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](#) 
   [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#) 
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#) 
+  [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](#)
+  [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](#)
   [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](#) 
   [![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](#)
 
@@ -53,11 +55,11 @@
 
 - 专业/身份：杜伦大学 — 计算机科学研究生在读  
 - 核心技能：Java、Python、Vue、JavaScript  
-- 拓展/尝试：React、Rust、Electron、Tauri  
+- 拓展/尝试：React、Rust、Electron、Tauri、Node.js、Go  
 - 目前进阶中：Kotlin 与 Android 开发
 
 ### 技能栈（概览）
-Java · Python · JavaScript · Kotlin（学习中） · Rust（尝试过） · Vue · React（基础） · Electron · Tauri · Redis · MySQL · MongoDB · MinIO · Git · Docker · Maven/Gradle · npm/Yarn
+Java · Python · JavaScript · Node.js · Go（尝试过） · Kotlin（学习中） · Rust（尝试过） · Vue · React（基础） · Electron · Tauri · Redis · MySQL · MongoDB · MinIO · Git · Docker · Maven/Gradle · npm/Yarn
 
 ### 推荐项目 / Featured Projects
 - GitHub: [alvinluo-tech/tauri-todolist](https://github.com/alvinluo-tech/tauri-todolist) — 基于 Tauri 的跨平台桌面待办应用，前端使用 React/Ts，目标是结合原生桌面体验与轻量本地存储。  
@@ -79,11 +81,11 @@ I'm a graduate student in Computer Science at Durham University. I love coding a
 
 - Role: Graduate student (Computer Science) at Durham University  
 - Core skills: Java, Python, Vue, JavaScript  
-- Explored: React, Rust, Electron, Tauri  
+- Explored: React, Rust, Electron, Tauri, Node.js, Go  
 - Currently learning: Kotlin & Android development
 
 ### Tech Stack (overview)
-Java · Python · JavaScript · Kotlin (learning) · Rust (explored) · Vue · React (basic) · Electron · Tauri · Redis · MySQL · MongoDB · MinIO · Git · Docker · Maven/Gradle · npm/Yarn
+Java · Python · JavaScript · Node.js · Go (explored) · Kotlin (learning) · Rust (explored) · Vue · React (basic) · Electron · Tauri · Redis · MySQL · MongoDB · MinIO · Git · Docker · Maven/Gradle · npm/Yarn
 
 ### Featured Projects
 - GitHub: [alvinluo-tech/tauri-todolist](https://github.com/alvinluo-tech/tauri-todolist) — A cross-platform desktop todo app built with Tauri (frontend: React/TS), focusing on lightweight local storage and a smooth desktop UX.  
@@ -95,5 +97,3 @@ Java · Python · JavaScript · Kotlin (learning) · Rust (explored) · Vue · R
 - Gitee: https://gitee.com/alvin_GDUT  
 - LinkedIn: https://www.linkedin.com/in/yaoshengluo/  
 - Email: luoyaosheng123@gmail.com
-
-
