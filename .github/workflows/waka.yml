@@ -7,9 +7,6 @@ on:
     - cron: "30 16 * * *"
   workflow_dispatch:          # 手动按钮
 
-permissions:
-  contents: write             # 写 README
-
 jobs:
   update-readme:
     name: Update README with WakaTime stats
