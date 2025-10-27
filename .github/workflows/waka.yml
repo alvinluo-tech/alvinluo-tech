@@ -27,5 +27,5 @@ jobs:
           SHOW_TIMEZONE: true
           SHOW_COMMIT: true
           SHOW_DAYS_OF_WEEK: true
-          SHOW_LINES_OF_CODE: true
+          SHOW_LINES_OF_CODE: false
           SYMBOL_VERSION: 2          

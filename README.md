@@ -47,6 +47,8 @@
   [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white)](#)
 
 ---
+
+## 💻 Weekly Coding Metrics
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
