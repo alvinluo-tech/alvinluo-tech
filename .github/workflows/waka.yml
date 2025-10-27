@@ -20,7 +20,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # 必填
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}              # 官方已内置，无需手动生成
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}              # 官方已内置，无需手动生成
           LOCALE: en                                        
           SHOW_TOTAL_CODE_TIME: true
           SHOW_LANGUAGE: true
