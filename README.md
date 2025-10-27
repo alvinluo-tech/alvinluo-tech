@@ -50,11 +50,9 @@
 
 ## 💻 Weekly Coding Metrics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-150-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -133,7 +131,7 @@ Kotlin                   1 repo              ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/alvinluo-tech/alvinluo-tech/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2025 09:33:07 UTC
+ Last Updated on 27/10/2025 09:44:27 UTC
 <!--END_SECTION:waka-->
 
 ## 中文版（Chinese）
