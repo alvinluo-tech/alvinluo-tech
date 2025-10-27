@@ -47,6 +47,8 @@
   [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white)](#)
 
 ---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 中文版（Chinese）
 

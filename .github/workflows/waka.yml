@@ -1,25 +1,34 @@
-name: Waka Readme
+# 与掘金示例同效果：https://juejin.cn/post/7256314289072980023
+name: WakaTime README
 
 on:
   schedule:
-    - cron: '0 16 * * *'   # 每天 16 UTC
-  workflow_dispatch:
+    # 每天 00:30（UTC+8）自动更新
+    - cron: "30 16 * * *"
+  workflow_dispatch:          # 手动按钮
 
 permissions:
-  contents: write
-
-concurrency:
-  group: ${{ github.workflow }}
-  cancel-in-progress: true
+  contents: write             # 写 README
 
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update README with WakaTime stats
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4   # 必须先检出源码，否则找不到 README
+
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          LOCALE: zh
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # 必填
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}              # 官方已内置，无需手动生成
+          LOCALE: en                                        
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_LANGUAGE: true
+          SHOW_EDITORS: true
+          SHOW_PROJECTS: true
+          SHOW_OS: true
+          SHOW_TIMEZONE: true
+          SHOW_COMMIT: true
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_LINES_OF_CODE: true
+          SYMBOL_VERSION: 2          
