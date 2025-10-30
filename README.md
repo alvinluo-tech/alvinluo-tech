@@ -150,7 +150,7 @@ Kotlin                   1 repo              ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀�
 Java · Python · JavaScript · Node.js · Go（尝试过） · Kotlin（学习中） · Rust（尝试过） · Vue · React（基础） · Electron · Tauri · Redis · MySQL · MongoDB · MinIO · Git · Docker · Maven/Gradle · npm/Yarn
 
 ### 推荐项目 / Featured Projects
-- GitHub: [alvinluo-tech/tauri-todolist](https://github.com/alvinluo-tech/tauri-todolist) — 基于 Tauri 的跨平台桌面待办应用，前端使用 React/Ts，目标是结合原生桌面体验与轻量本地存储。  
+- GitHub: [alvinluo-tech/tauri-FocusTimer](https://github.com/alvinluo-tech/tauri-FocusTimer) — 基于 Tauri 的跨平台桌面时间管理应用，前端使用 React/Ts，目标是结合原生桌面体验与轻量本地存储。  
 - Gitee: [proxy_pool_manager](https://gitee.com/alvin_GDUT/proxy_pool_manager) — 代理池管理工具：抓取、校验并管理可用代理，支撑爬虫与数据采集场景（典型实现为 Python）。  
 - Gitee: [crawler-hub](https://gitee.com/alvin_GDUT/crawler-hub) — 爬虫管理与调度平台：组织与调度多爬虫任务，管理抓取策略与结果存储，适合大规模数据采集流程。
 
@@ -176,7 +176,7 @@ I'm a graduate student in Computer Science at Durham University. I love coding a
 Java · Python · JavaScript · Node.js · Go (explored) · Kotlin (learning) · Rust (explored) · Vue · React (basic) · Electron · Tauri · Redis · MySQL · MongoDB · MinIO · Git · Docker · Maven/Gradle · npm/Yarn
 
 ### Featured Projects
-- GitHub: [alvinluo-tech/tauri-todolist](https://github.com/alvinluo-tech/tauri-todolist) — A cross-platform desktop todo app built with Tauri (frontend: React/TS), focusing on lightweight local storage and a smooth desktop UX.  
+- GitHub: [alvinluo-tech/tauri-todolist](https://github.com/alvinluo-tech/tauri-todolist) — A cross-platform desktop time managment app built with Tauri (frontend: React/TS), focusing on lightweight local storage and a smooth desktop UX.  
 - Gitee: [proxy_pool_manager](https://gitee.com/alvin_GDUT/proxy_pool_manager) — A proxy pool manager for scraping/data-collection: fetches, validates and serves usable proxies (typical Python-based implementation).  
 - Gitee: [crawler-hub](https://gitee.com/alvin_GDUT/crawler-hub) — A crawler management and scheduling platform for running multiple crawling tasks and storing results.
 

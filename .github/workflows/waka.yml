@@ -1,23 +1,23 @@
-# 与掘金示例同效果：https://juejin.cn/post/7256314289072980023
+
 name: WakaTime README
 
 on:
   schedule:
     # 每天 00:30（UTC+8）自动更新
     - cron: "30 16 * * *"
-  workflow_dispatch:          # 手动按钮
+  workflow_dispatch:          
 
 jobs:
   update-readme:
     name: Update README with WakaTime stats
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4   # 必须先检出源码，否则找不到 README
+      - uses: actions/checkout@v4 
 
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # 必填
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}              # 官方已内置，无需手动生成
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}             
           LOCALE: en                                        
           SHOW_TOTAL_CODE_TIME: true
           SHOW_LANGUAGE: true
