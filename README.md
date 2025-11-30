@@ -1,11 +1,16 @@
 # 👋 Hi, I'm alvinluo-tech / 嗨，我是 alvinluo-tech
 
 [![Durham University](https://img.shields.io/badge/Durham%20University-Computer%20Science-blue?logo=university&logoColor=white)](https://www.durham.ac.uk/)
+[![Durham University](https://img.shields.io/badge/Durham%20University-Computer%20Science-blue?logo=university&logoColor=white)](https://www.durham.ac.uk/)
 [![GitHub followers](https://img.shields.io/github/followers/alvinluo-tech?label=Follow&logo=github)](https://github.com/alvinluo-tech)
 [![Gitee](https://img.shields.io/badge/Gitee-alvin__GDUT-orange?logo=gitee&logoColor=white)](https://gitee.com/alvin_GDUT)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaosheng%20Luo-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaoshengluo/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinluo-tech&layout=compact&theme=tokyonight)](https://github.com/alvinluo-tech)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alvinluo-tech&show_icons=true&theme=tokyonight)](https://github.com/alvinluo-tech)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-zeta-six-17.vercel.app/api/top-langs/?username=alvinluo-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=320"/>
+  <img height="180em" src="https://github-readme-stats-zeta-six-17.vercel.app/api?username=alvinluo-tech&show_icons=true&theme=tokyonight"/>
+</div>
+
 
 ---
 
@@ -23,6 +28,7 @@
 - 前端 / Frontend  
   [![Vue.js](https://img.shields.io/badge/Vue.js-3DDC84?logo=vuedotjs&logoColor=white)](#) 
   [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](#)
+  [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](#)
 
 - 桌面框架 / Desktop Frameworks  
   [![Tauri](https://img.shields.io/badge/Tauri-222222?logo=tauri&logoColor=white)](#) 
@@ -32,11 +38,27 @@
   [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#) 
   [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](#)
 
-- 后端 / Databases & Storage  
+- 后端框架 / Backend Frameworks  
+  [![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)](#)
+  [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](#)
+  [![Koa](https://img.shields.io/badge/Koa-33333D?logo=koa&logoColor=white)](#)
+  [![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)](#)
+
+- 数据库 & 存储 / Databases & Storage  
   [![Redis](https://img.shields.io/badge/Redis-BF2D2D?logo=redis&logoColor=white)](#) 
   [![MySQL](https://img.shields.io/badge/MySQL-004EAA?logo=mysql&logoColor=white)](#) 
   [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](#) 
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](#)
+  [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)](#)
   [![MinIO](https://img.shields.io/badge/MinIO-FF4A00?logo=minio&logoColor=white)](#)
+
+- 消息队列 / Message Queue  
+  [![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)](#) 
+  [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)](#)
+
+- 云服务 & BaaS / Cloud & Backend-as-a-Service  
+  [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](#) 
+  [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)](#)
 
 - 工具 & 平台 / Tools & Platform  
   [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#) 
@@ -48,7 +70,36 @@
 
 ---
 
+## 📈 GitHub Activity & Stats
+
+### 🔥 Contribution Stats
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvinluo-tech&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=alvinluo-tech&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+### 📊 Contribution Graph
+<div align="center">
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alvinluo-tech&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
 ## 💻 Weekly Coding Metrics
+
+### 📊 WakaTime Stats
+[![alvinluo's WakaTime stats](https://github-readme-stats-zeta-six-17.vercel.app/api/wakatime?username=alvinluo&theme=tokyonight&langs_count=10&custom_title=编程时间统计)](https://wakatime.com/@alvinluo)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2028%20mins-blue)
 
@@ -158,7 +209,7 @@ Java · Python · JavaScript · Node.js · Go（尝试过） · Kotlin（学习�
 - LinkedIn: https://www.linkedin.com/in/yaoshengluo/  
 - 邮箱: luoyaosheng123@gmail.com 
 
----
+--
 
 ## English Version
 
