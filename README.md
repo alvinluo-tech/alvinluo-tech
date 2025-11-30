@@ -50,9 +50,9 @@
 
 ## 💻 Weekly Coding Metrics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-544%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-558%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
 **🐱 My GitHub Data** 
 
@@ -62,7 +62,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -132,7 +132,7 @@ Astro                    1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/alvinluo-tech/alvinluo-tech/main/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2025 15:59:24 UTC
+ Last Updated on 30/11/2025 16:46:23 UTC
 <!--END_SECTION:waka-->
 
 ## 中文版（Chinese）
