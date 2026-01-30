@@ -1,7 +1,6 @@
 # 👋 Hi, I'm alvinluo-tech / 嗨，我是 alvinluo-tech
 
 [![Durham University](https://img.shields.io/badge/Durham%20University-Computer%20Science-blue?logo=university&logoColor=white)](https://www.durham.ac.uk/)
-[![Durham University](https://img.shields.io/badge/Durham%20University-Computer%20Science-blue?logo=university&logoColor=white)](https://www.durham.ac.uk/)
 [![GitHub followers](https://img.shields.io/github/followers/alvinluo-tech?label=Follow&logo=github)](https://github.com/alvinluo-tech)
 [![Gitee](https://img.shields.io/badge/Gitee-alvin__GDUT-orange?logo=gitee&logoColor=white)](https://gitee.com/alvin_GDUT)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaosheng%20Luo-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaoshengluo/)
