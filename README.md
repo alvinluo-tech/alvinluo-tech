@@ -73,21 +73,20 @@
 
 ### 🔥 Contribution Stats
 <div align="center">
-  
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvinluo-tech&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=alvinluo-tech&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.benkou.dev/?username=alvinluo-tech&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ### 📊 Contribution Graph
 <div align="center">
-  
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alvinluo-tech&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
